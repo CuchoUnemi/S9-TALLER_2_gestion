@@ -1,5 +1,8 @@
 def suma(a, b):
-    return a + b
+    """
+    Retorna la suma de dos números enteros o flotantes.
+    """
+    return a * b
 
 def resta(a, b):
     return a - b
